@@ -1,0 +1,4 @@
+name: WorldGenTest
+main: nl.knokko.main.WorldGenPlugin
+version: 0.0 Test
+load: STARTUP
